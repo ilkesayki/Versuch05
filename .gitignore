@@ -1,0 +1,24 @@
+# Eclipse
+.settings/
+.project
+.cproject
+
+# Build klasörleri
+Debug/
+Release/
+
+# Derlenmiş dosyalar
+*.o
+*.d
+*.out
+*.exe
+*.a
+*.lib
+
+# Sistem/IDE dosyaları
+.DS_Store
+*.log
+*.launch
+html/
+latex/
+
